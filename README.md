@@ -1,1 +1,1 @@
-# exerc_arqs_02_power_bi
+# exemplo uso de websocket com chartJS
